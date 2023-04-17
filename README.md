@@ -1,5 +1,5 @@
 # timestamp
-get timestamp from alfred 5 workflows
+get timestamp, use alfred 4\5 workflows
 
 input: ts 
 
